@@ -1,9 +1,6 @@
 
-public class Class1 {
+public class Class2 {
 
-	public void printFunction()
-	{
-		System.out.println("dfdsfdsf");
-	}
 	
 }
+
